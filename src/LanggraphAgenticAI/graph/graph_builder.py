@@ -4,7 +4,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from src.LanggraphAgenticAI.state.state import State
 from src.LanggraphAgenticAI.nodes.basic_chatbot_node import BasicChatbotNode
 from src.LanggraphAgenticAI.nodes.chatbot_with_Tool_node import ChatbotWithToolNode
-from src.LanggraphAgenticAI.tools.serach_tool import get_tools,create_tool_node
+from src.LanggraphAgenticAI.tools.search_tool import get_tools,create_tool_node
 from src.LanggraphAgenticAI.nodes.ai_news_node import AINewsNode
 
 
@@ -25,6 +25,7 @@ class GraphBuilder:
         """
         self.basic_chatbot_node=BasicChatbotNode(self.llm)
         self.graph_builder.add_node("chatbot",self.basic_chatbot_node.process)
+        self.graph_builder.set_entry_point("chatbot")
         self.graph_builder.add_edge(START,"chatbot")
         self.graph_builder.add_edge("chatbot",END)
 
@@ -48,6 +49,7 @@ class GraphBuilder:
         # Define chatbot node
         obj_chatbot_with_node = ChatbotWithToolNode(llm)
         chatbot_node = obj_chatbot_with_node.create_chatbot(tools)
+        self.graph_builder.set_entry_point("chatbot")
 
         # Add nodes
         self.graph_builder.add_node("chatbot", chatbot_node)
