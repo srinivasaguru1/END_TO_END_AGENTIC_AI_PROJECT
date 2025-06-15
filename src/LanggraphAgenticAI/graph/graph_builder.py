@@ -49,12 +49,11 @@ class GraphBuilder:
         # Define chatbot node
         obj_chatbot_with_node = ChatbotWithToolNode(llm)
         chatbot_node = obj_chatbot_with_node.create_chatbot(tools)
-        self.graph_builder.set_entry_point("chatbot")
-
         # Add nodes
         self.graph_builder.add_node("chatbot", chatbot_node)
         self.graph_builder.add_node("tools", tool_node)
-
+        #Then set entry point
+        self.graph_builder.set_entry_point("chatbot")
         # Define conditional and direct edges
         self.graph_builder.add_edge(START,"chatbot")
         self.graph_builder.add_conditional_edges("chatbot", tools_condition)
