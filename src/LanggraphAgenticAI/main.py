@@ -1,3 +1,6 @@
+import os
+os.environ["HOME"] = "/tmp"  # ✅ Set writable HOME before importing streamlit
+
 import streamlit as st
 import json
 from src.LanggraphAgenticAI.ui.streamlitui.loadui import LoadStreamlitUI
