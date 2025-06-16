@@ -1,16 +1,16 @@
-### END_TO_END_AGENTIC_AI_PROJECT
 ---
-title: AgenticAI LangGraph App 🚀
-emoji: 🤖
-colorFrom: indigo
-colorTo: pink
+title: LanggraphAgenticAI
+emoji: 🐨
+colorFrom: blue
+colorTo: red
 sdk: streamlit
-sdk_version: "1.34.0"
+sdk_version: 1.42.0
 app_file: app.py
 pinned: false
+license: apache-2.0
+short_description: Refined langgraphAgenticAI
 ---
 
-# AgenticAI LangGraph App
+### End To End Agentic AI Projects
 
-This app is powered by LangGraph, Streamlit, and Groq LLM. It demonstrates an agentic AI workflow built using a modular architecture.
-
+The project is in development
