@@ -1,31 +1,48 @@
-Daily AI News Summary
-2025-06-16
-Abn Amro to Launch Buut Banking Service for Young Customers https://www.fintechfutures.com/fintech-start-ups/abn-amro-to-launch-buut-banking-service-for-young-customers
-2025-06-16
-Microsoft's Latest AI Efforts Aim to Unify Its Productivity Software https://www.rcrwireless.com/20250606/opinion/bookmarks-ai-products
-2025-06-16
-dLocal to Acquire AZA Finance, a Fintech Company Specializing in Africa's B2B Sector https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-6-june-2025
-2025-06-16
-DeepSeek's AI Model Update Goes Unnoticed, Despite Being 17 Times Cheaper https://www.businessinsider.com/deepseek-deepwho-missed-latest-ai-launch-2025-6
-2025-06-16
-UK University-Media Relations Team Joins Efficiency Drive, Embracing Artificial Intelligence https://www.researchprofessionalnews.com/rr-news-uk-views-of-the-uk-2025-june-artificial-intelligence/
-2025-06-16
-Algorithm Can Predict MS Symptoms Using Smartphone App Data https://multiplesclerosisnewstoday.com/news-posts/2025/06/06/algorithm-analyze-smartphone-app-data-predict-ms-symptoms/
-2025-06-16
-AI Can Predict Your Deepest-Held Beliefs Based on Patterns https://www.newscientist.com/article/2482614-your-deepest-held-beliefs-form-a-pattern-than-can-be-predicted-by-ai/
-2025-06-16
-PitchBook: AI Disruption Rises, VC Optimism Cools in H1 2025 https://www.finextra.com/newsarticle/46125/pitchbook-ai-disruption-rises-vc-optimism-cools-in-h1-2025
-2025-06-16
-FBI Warns of BadBox 2 Botnet, NSO Disputes WhatsApp Fine, 1,000 Leave CISA https://www.securityweek.com/in-other-news-fbi-warns-of-badbox-2-nso-disputes-whatsapp-fine-1000-leave-cisa/
-2025-06-16
-Semiconductor Industry Rebounds, AI and Strategic Investments Drive 21% Surge https://roboticsandautomationnews.com/2025/06/06/semiconductor-industry-rebounds-ai-and-strategic-investments-drive-21-percent-surge/91559/
-2025-06-16
-New Book Explores AI's Impact on Labor and Society https://www.theatlantic.com/culture/archive/2025/06/artificial-intelligence-illiteracy/683021/
-2025-06-16
-Trump Takes Action to Lead the World in Supersonic Flight https://www.whitehouse.gov/fact-sheets/2025/06/fact-sheet-president-donald-j-trump-takes-action-to-lead-the-world-in-supersonic-flight/
-2025-06-16
-Why Investing in Growth-Stage AI Startups is Getting Riskier and More Complicated https://techcrunch.com/2025/06/06/why-investing-in-growth-stage-ai-startups-is-getting-riskier-and-more-complicated/
-2025-06-16
-Nanowire Retinal Implant Restores Vision and Sees Infrared https://neurosciencenews.com/nanotech-visual-implant-29223/
-2025-06-16
-AI Governance Market to Reach USD 36 Billion by 2034, Growing at a 12% CAGR https://www.globenewswire.com/news-release/2025/06/06/3095143/0/en/AI-Governance-Market-to-Reach-USD-36-Billion-by-2034-Growing-at-a-12-CAGR-Exactitude-Consultancy.html
+# Daily AI News Summary
+
+Here are the AI news articles summarized in the requested format:
+
+### 2025-06-17**
+- Google to scale up AI-powered fraud detection and security operations in India. [https://techcrunch.com/2025/06/17/google-to-scale-up-ai-powered-fraud-detection-and-security-operations-in-india/](https://techcrunch.com/2025/06/17/google-to-scale-up-ai-powered-fraud-detection-and-security-operations-in-india/)
+
+### 2025-06-17**
+- OpenAI is under 'unprecedented pressure to grow,' says its new recruiting head. [https://www.businessinsider.com/openai-unprecedented-pressure-grow-new-head-recruiting-joaquin-quinonero-candela-2025-6](https://www.businessinsider.com/openai-unprecedented-pressure-grow-new-head-recruiting-joaquin-quinonero-candela-2025-6)
+
+### 2025-06-16**
+- The WHO Foundation announces a fundraising campaign. [https://www.mobihealthnews.com/video/who-foundation-announces-fundraising-campaign](https://www.mobihealthnews.com/video/who-foundation-announces-fundraising-campaign)
+
+### 2025-06-16**
+- RSM launches myRSM Tax, an AI-powered tax technology ecosystem. [https://www.accountingtoday.com/news/rsm-launches-myrsm-tax-ecosystem](https://www.accountingtoday.com/news/rsm-launches-myrsm-tax-ecosystem)
+
+### 2025-06-16**
+- AI is taking over entry-level job tasks, and it's happening fast. [https://www.rudebaguette.com/en/2025/06/the-real-threat-isnt-your-job-ai-isnt-taking-careers-its-replacing-people-still-learning-to-work-and-its-happening-fast/](https://www.rudebaguette.com/en/2025/06/the-real-threat-isnt-your-job-ai-isnt-taking-careers-its-replacing-people-still-learning-to-work-and-its-happening-fast/)
+
+### 2025-06-16**
+- Most states have introduced AI regulation, but only a handful have signed it into law. [https://www.insurancejournal.com/news/national/2025/06/16/827930.htm](https://www.insurancejournal.com/news/national/2025/06/16/827930.htm)
+
+### 2025-06-16**
+- Tata Sons chairman tells AI employees to build a safer airline. [https://www.financialexpress.com/business/industry-renew-profit-zooms-415-to-rs-314-crore-3882191/](https://www.financialexpress.com/business/industry-renew-profit-zooms-415-to-rs-314-crore-3882191/)
+
+### 2025-06-16**
+- Your next co-founder will be AI. [https://techcrunch.com/sponsor/tanka-inc/your-next-co-founder-will-be-ai/](https://techcrunch.com/sponsor/tanka-inc/your-next-co-founder-will-be-ai/)
+
+### 2025-06-16**
+- The best AI for coding in 2025. [https://www.zdnet.com/article/meta-oakley-smart-glasses-could-arrive-this-week-heres-everything-we-know/](https://www.zdnet.com/article/meta-oakley-smart-glasses-could-arrive-this-week-heres-everything-we-know/)
+
+### 2025-06-16**
+- China vs. US AI supremacy requires reliable electricity. [https://www.forbes.com/sites/judeclemente/2025/06/16/china-vs-us-ai-supremacy-requires-reliable-electricity/](https://www.forbes.com/sites/judeclemente/2025/06/16/china-vs-us-ai-supremacy-requires-reliable-electricity/)
+
+### 2025-06-16**
+- Deutsche Telekom and Nvidia build industrial AI cloud. [https://www.lightreading.com/business-transformation/eurobites-ai-can-cut-more-jobs-than-we-thought-says-bt-boss](https://www.lightreading.com/business-transformation/eurobites-ai-can-cut-more-jobs-than-we-thought-says-bt-boss)
+
+### 2025-06-16**
+- The security of AI models and protecting your most critical applications and data. [https://www.securityweek.com/red-teaming-ai-the-build-vs-buy-debate/](https://www.securityweek.com/red-teaming-ai-the-build-vs-buy-debate/)
+
+### 2025-06-16**
+- OpenAI rolls out update to ChatGPT search. [https://www.searchenginejournal.com/openai-rolls-out-update-to-chatgpt-search/549040/](https://www.searchenginejournal.com/openai-rolls-out-update-to-chatgpt-search/549040/)
+
+### 2025-06-16**
+- OpenAI wins $200 million US defense contract. [https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/](https://www.reuters.com/world/us/openai-wins-200-million-us-defense-contract-2025-06-16/)
+
+### 2025-06-17**
+- Insurers confront the unthinkable: when AI acts alone, who is to blame? [https://www.insurancetimes.co.uk/analysis/techtalk-when-ai-acts-alone-who-is-to-blame-insurers-confront-the-unthinkable/1455503.article](https://www.insurancetimes.co.uk/analysis/techtalk-when-ai-acts-alone-who-is-to-blame-insurers-confront-the-unthinkable/1455503.article)
